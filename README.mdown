@@ -1,0 +1,74 @@
+BBSettings
+===============
+A powerful iOS 5.0 Notification Center Widget
+---------------------------------------------
+
+by Manuel Gebele
+----------------
+
+email: forensixs (at) gmx (dot) de
+
+twitter: @manuelgebele
+
+facebook: facebook.com/gebele
+
+
+What is that?
+-------------
+
+WeeFacebook is a wee app (widget) for the iOS 5 Notification Center 
+(aka Bulletin Board).
+
+Features
+--------
+
+* Featured Apps
+You can easely configure which are your most used apps.
+
+* Running Apps
+Shows you all current running apps.
+
+* System Info
+Shows you various device informations (Disk/Memory usage; Hardware).
+Allows you to kill all running apps.
+
+* Toggles
+Flashlight, WIFI, Airplane, Bluetooth, Orientation Lock and Mute.
+
+* Preferences
+Configure your most used Apps.
+
+More coming soon…
+
+http://img828.imageshack.us/img828/5232/86786518.png
+http://img52.imageshack.us/img52/9373/96496533.png
+http://img843.imageshack.us/img843/8145/43561005.png
+http://img42.imageshack.us/img42/5853/54254291.png
+http://img269.imageshack.us/img269/7761/66896778.png
+http://img842.imageshack.us/img842/6509/70190624.png
+http://img16.imageshack.us/img16/1001/72154846.png
+
+
+[![](http://img828.imageshack.us/img828/5232/86786518.png)](http://img828.imageshack.us/img828/5232/86786518.png)
+[![](http://img52.imageshack.us/img52/9373/96496533.png)](http://img52.imageshack.us/img52/9373/96496533.png)
+[![](http://img843.imageshack.us/img843/8145/43561005.png)](http://img843.imageshack.us/img843/8145/43561005.png)
+[![](http://img42.imageshack.us/img42/5853/54254291.png)](http://img42.imageshack.us/img42/5853/54254291.png)
+[![](http://img269.imageshack.us/img269/7761/66896778.png)](http://img269.imageshack.us/img269/7761/66896778.png)
+[![](http://img842.imageshack.us/img842/6509/70190624.png)](http://img842.imageshack.us/img842/6509/70190624.png)
+[![](http://img16.imageshack.us/img16/1001/72154846.png)](http://img16.imageshack.us/img16/1001/72154846.png)
+
+Requirements
+------------
+
+* Jailbroken iDevice (iOS 5)
+
+Install
+-------
+
+Just load the .deb file and install it via dpkg or iFile.<br />
+
+Credits
+--------
+
+* Anton Pauli (UI Design)
+
