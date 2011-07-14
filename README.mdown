@@ -19,8 +19,6 @@ What is that?
 BBSettings is a wee app (widget) for the iOS 5 Notification Center 
 (aka Bulletin Board).
 
-BBSettings is currently not compatible to iOS 5 Beta 3.
--------------------------------------------------------
 
 Features
 --------
