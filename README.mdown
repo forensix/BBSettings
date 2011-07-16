@@ -2,7 +2,7 @@ BBSettings
 ===============
 A powerful iOS 5.0 Notification Center Widget
 ---------------------------------------------
-NOTE: The source code will be available after the official iOS 5 is out!
+NOTE: The source code will be available after iOS 5 is out!
 -------------
 
 by Manuel Gebele
