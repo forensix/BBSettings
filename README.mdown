@@ -61,6 +61,9 @@ Install
 
 Just load the .deb file and install it via dpkg or iFile.<br />
 
+<b>Update</b>
+
+
 Credits
 --------
 
