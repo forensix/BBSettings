@@ -36,7 +36,7 @@ Shows you various device informations (Disk/Memory usage; Hardware, Battery perc
 Allows you to kill all running apps.
 
 * Toggles
-Respring, Flashlight, WIFI, Airplane, Mobile Data, 3G, Bluetooth, Orientation Lock, Mute.
+Respring, Task Killer, Flashlight, WIFI, Airplane, Mobile Data, 3G, Bluetooth, Orientation Lock, Mute.
 
 * Preferences
 Configure your most used Apps. Control your volume and display brightness. Fake your operator.
