@@ -44,6 +44,19 @@ Configure your most used Apps. Control your volume and display brightness. Fake 
 Changelog
 ---------
 
+<b>Version 2.0</b>
+
+* Disk Usage
+* Mem Usage
+* Mem Free
+* CPU Usage
+* Wi-Fi State
+* Cellular Data State
+* Processes
+* General Info
+* Performance Improvements
+* UI Improvements
+
 <b>Version 1.4</b>
 
 * 3G Toggle
