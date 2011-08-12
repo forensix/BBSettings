@@ -58,6 +58,8 @@ Changelog
 * UI Improvements
 * Widget Icon
 
+* iPod Fix
+
 <b>Version 1.4</b>
 
 * 3G Toggle
