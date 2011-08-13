@@ -36,8 +36,16 @@ Shows you all current running apps.
 <b>System Info</b>
 
 Shows you various device informations:< br/>
-* Disk usage <br />
-* Memory usage; CPU usage; Wi-Fi Stats; Cellular Data Stats  (Disk/Memory usage; Hardware, Battery percentage).
+
+* Disk usage
+
+* Memory usage
+
+* CPU usage
+
+* Wi-Fi Stats
+
+* Cellular Data Stats
 
 
 
