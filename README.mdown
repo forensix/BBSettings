@@ -35,7 +35,7 @@ Shows you all current running apps.
 
 <b>System Info</b>
 
-Shows you various device informations:< br/>
+Shows you various device informations:
 
 * Disk usage (Used; Free; Total Disk Space)
 
@@ -55,7 +55,7 @@ Shows you various device informations:< br/>
 
 <b>Toggles</b>
 
-Simply activate or deactivate some most used features. < br/>
+Simply activate or deactivate some most used features.
 
 * Flashlight
 
