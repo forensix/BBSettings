@@ -25,7 +25,8 @@ BBSettings is a wee app (widget) for the iOS 5 Notification Center
 Features
 --------
 
-* <b>Featured Apps</b></br>
+* <b>Featured Apps</b>
+
 You can easely configure which are your most used apps.
 
 * <b>Running Apps</b></br>
