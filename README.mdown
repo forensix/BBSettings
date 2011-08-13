@@ -37,23 +37,48 @@ Shows you all current running apps.
 
 Shows you various device informations:< br/>
 
-* Disk usage
+* Disk usage (Used; Free; Total Disk Space)
 
-* Memory usage
+* Memory usage (Active; Inactive; Wired; Free; Total Memory)
 
-* CPU usage
+* Mem Free (allows you to free up your memory)
 
-* Wi-Fi Stats
+* CPU usage (User; System; Idle; Avg Load)
 
-* Cellular Data Stats
+* Wi-Fi Stats (RSSI; IP; SSID; HW; BSSID; Channel; Hidden State; WPA/WEP; Packets sent/rcvd)
 
+* Cellular Data Stats (RSSI; IP; Carrier Name; Country Code; Number of Incoming/Outgoing Calls; Call Time; Packets Sent/Rcvd)
 
+* Processes (PID; CMD; Priority; Runtime; State; Total Number of Running Processes)
 
+* General (Percentage Battery Level; Charging/Discharging; OS Info; Device Info; Hardware Capabilities)
 
-* <b>Toggles</b></br>
-Respring, Task Killer, Flashlight, WIFI, Airplane, Mobile Data, 3G, Bluetooth, Orientation Lock, Mute.
+<b>Toggles</b>
 
-* <b>Preferences</b></br>
+Simply activate or deactivate some most used features. < br/>
+
+* Flashlight
+
+* App Killer
+
+* Respring
+
+* Cellular Data
+
+* 3G
+
+* Wi-Fi
+
+* Airplane
+
+* Bluetooth
+
+* Rotation Lock
+
+* Mute
+
+<b>Settings</b>
+
 Configure your most used Apps. Control your volume and display brightness. Fake your operator.
 
 Changelog
