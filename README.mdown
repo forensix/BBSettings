@@ -152,8 +152,11 @@ Just load the .deb file and install it via dpkg or iFile.<br />
 
 <b>Update</b><br />
 
-The easiest way to install BBSettings is to add <b>http://cydia.myrepospace.com/ios5beta </b><br />
-to your Cydia sources. 
+The easiest way to install BBSettings is to add one of the following reposto your Cydia sources:
+
+* <b>http://cydia.myrepospace.com/ios5beta </b>
+
+* <b>http://cydia.myrepospace.com/ios5beta </b>
 
 Credits
 --------
