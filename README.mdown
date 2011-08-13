@@ -29,13 +29,18 @@ Features
 
 You can easely configure which are your most used apps.
 
-* <b>Running Apps</b>
+<b>Running Apps</b>
 
 Shows you all current running apps.
 
-* <b>System Info</b></br>
-Shows you various device informations (Disk/Memory usage; Hardware, Battery percentage).
-Allows you to kill all running apps.
+<b>System Info</b>
+
+Shows you various device informations:< br/>
+* Disk usage <br />
+* Memory usage; CPU usage; Wi-Fi Stats; Cellular Data Stats  (Disk/Memory usage; Hardware, Battery percentage).
+
+
+
 
 * <b>Toggles</b></br>
 Respring, Task Killer, Flashlight, WIFI, Airplane, Mobile Data, 3G, Bluetooth, Orientation Lock, Mute.
