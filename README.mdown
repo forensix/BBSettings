@@ -82,6 +82,10 @@ Configure your most used Apps. Control your volume and display brightness. Fake 
 Changelog
 ---------
 
+<b>Version 2.1-13</b>
+
+* iOS 5 Beta 6 Compatibility
+
 <b>Version 2.1</b>
 
 * Some Minor Fixes
