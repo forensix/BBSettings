@@ -82,15 +82,13 @@ Configure your most used Apps. Control your volume and display brightness. Fake 
 Changelog
 ---------
 
-<<<<<<< HEAD
 <b>Version 2.1-13</b>
 
 * iOS 5 Beta 6 Compatibility
-=======
+
 <b>Version 2.1-4</b>
 
 * Fixed status bar freezing
->>>>>>> 20c591c00c61992e247812ddc87ba4ce4912a1e2
 
 <b>Version 2.1</b>
 
